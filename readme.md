@@ -597,6 +597,7 @@
 | [Vuesax](https://vuesax.com/)|Unique and reusable UI components |
 | [Antdv](https://antdv.com/)|UI library for Vue based on Ant Design |
 | [Shards Vue](https://designrevision.com/downloads/shards-vue/)|A high-quality & free Vue UI kit featuring a modern design system with dozens of custom components |
+| [Prime Vue](https://www.primefaces.org/primevue/)|Powerful yet simple to use, versatile, performant Vue UI Component Library to help you build stunning user interfaces.|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -790,6 +791,8 @@
 | [Site Inspire](https://www.siteinspire.com/) |siteInspire is a showcase of the finest web and interactive design.  |
 | [Web Design Inspiration](https://www.webdesign-inspiration.com/) | A site for web design inspiration, updated daily.  |
 | [NavNav](https://navnav.co/) | Responsive navigation examples |
+| [Calltoidea](https://www.calltoidea.com/) | Collection of different web Components for inspiration. |
+| [MediaQueri.es](https://mediaqueri.es/) | A collection of inspirational websites using media queries and responsive web design |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
