@@ -1,4 +1,4 @@
-![Repository Banner](header_image.png)
+![Repository Banner](headerimage.png)
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
 ## Table of Contents
@@ -47,7 +47,6 @@
 | [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create  |
 | [Illustration.co](https://illlustrations.co/)                                                            | Open-source illustrations kit                                      |
 | [Manypixels.co](https://www.manypixels.co/gallery/)                                                      | Monochromatic, Isometric high quality illustrations                |
-| [Opendoodles](https://www.opendoodles.com/)                                                              | Free sketchy illustrations                                         |
 | [Open Peeps](https://www.openpeeps.com/)                                                                 | Hand drawn illustration library                                    |
 | [UI Space](https://uispace.net/)                                                                         | Thousands of great UI freebies                                     |
 | [Animations.co](http://animaticons.co/)                                                                  | Beautiful, customizable animated GIF icons                         |
@@ -503,6 +502,7 @@
 | [Animate On Scroll](https://michalsnik.github.io/aos/)| Animate on scroll library to reveal animations when You scroll. |
 | [Tilt.js](http://gijsroge.github.io/tilt.js/)| A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery. |
 | [Roughnotation](https://roughnotation.com/)| Rough Notation is a small JavaScript library to create and animate annotations on a web page |
+| [tsParticles](https://particles.matteobruni.it/)| A lightweight library for creating particles, an improved version of the abandoned and obsolete particles.js |
 | [Particles.js](https://vincentgarreau.com/particles.js/)| A lightweight JavaScript library for creating particles |
 | [mo.js](https://mojs.github.io/)| The motion graphics toolbelt for the web |
 
@@ -584,6 +584,7 @@
 | [Vercel UI](https://github.com/zeit-ui/react) | Modern and minimalist React UI library |
 | [Framer Motion](https://www.framer.com/motion/) | A React library to power production-ready animations. |
 | [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) | A React implementation of Spectrum, Adobe’s design system. |
+| [React tsParticles](https://particles.matteobruni.it/)| A lightweight React component for creating particles |
 
 
 <div align="right">
@@ -612,6 +613,7 @@
 | [Shards Vue](https://designrevision.com/downloads/shards-vue/)|A high-quality & free Vue UI kit featuring a modern design system with dozens of custom components |
 | [Prime Vue](https://www.primefaces.org/primevue/)|Powerful yet simple to use, versatile, performant Vue UI Component Library to help you build stunning user interfaces.|
 | [View UI](https://www.iviewui.com/)|Dozens of useful and beautiful Vue components made for people with all skill levels with extensive documentation.|
+| [Particles.vue](https://particles.matteobruni.it/)| A lightweight Vue component for creating particles |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -635,6 +637,7 @@
 | [NG Zorro](https://ng.ant.design/)| UI library for Angular based on Ant Design |
 | [Pagination for datatables](https://www.npmjs.com/package/ngx-pagination) | npm library for pagination |
 | [Multi select dropdown](https://www.npmjs.com/package/ng-multiselect-dropdown) | for multi select dropdowm in forms |
+| [NG Particles](https://particles.matteobruni.it/)| A lightweight Angular component for creating particles |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -648,6 +651,7 @@
 | [Svelte Material UI](https://sveltematerialui.com/)| UI library for Svelte based on Material Design |
 | [SvelteStrap](https://bestguy.github.io/sveltestrap/)| UI library for Svelte based on the Bootstrap framework |
 | [Svelte Flat UI](https://svelteui.js.org/#/checkbox)|UI library for Svelte based on Flat Design |
+| [Svelte Particles](https://particles.matteobruni.it/)| A lightweight Svelte component for creating particles |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
