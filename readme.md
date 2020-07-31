@@ -383,6 +383,7 @@
 | [Facebook Devices](https://facebook.design/devices)| Images and Sketch files of popular devices  |
 | [Threed.io](https://threed.io)| Generate 3D mockups right in your browser. |
 | [Mockuphone](https://mockuphone.com/)| 100% free mockups for all devices including IOS, Android, Windows Phone, Laptop & Desktop and TV |
+| [Device Shots](https://deviceshots.com/)| Create high-resolution device mockups for social media, for free |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -884,6 +885,7 @@
 | [CSS Reference](https://cssreference.io/) | A collection of all css properties and definitions in detail |
 | [Critical Path CSS Generator](https://www.sitelocity.com/critical-path-css-generator) | Generate critical css for your web pages |
 | [SVG Gobbler](https://github.com/rossmoody/svg-gobbler) | Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG. |
+| [shortcode.dev](https://shortcode.dev) | A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more.  |
 
 
 <div align="right">
