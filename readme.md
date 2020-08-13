@@ -467,6 +467,7 @@
 | [Tachyons](https://tachyons.io/) | Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible. |
 | [Material Bootstrap](https://fezvrasta.github.io/bootstrap-material-design/) | Material Design with Bootstrap |
 | [Ivory](https://github.com/IVORY-UI/ivory) | A modern CSS framework for developing powerful web interfaces faster and easier |
+| [Halfmoon UI](https://www.gethalfmoon.com/)| A responsive and lightweight framework, designed for quickly building beautiful dashboards and product pages. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -600,7 +601,7 @@
 | [Framer Motion](https://www.framer.com/motion/) | A React library to power production-ready animations. |
 | [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) | A React implementation of Spectrum, Adobe’s design system. |
 | [React tsParticles](https://particles.matteobruni.it/)| A lightweight React component for creating particles |
-
+| [particles-bg](https://github.com/lindelof/particles-bg)| A React particles animation background component |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -894,6 +895,7 @@
 | [SVG Gobbler](https://github.com/rossmoody/svg-gobbler) | Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG. |
 | [shortcode.dev](https://shortcode.dev) | A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more.  |
 | [PlayCode](https://playcode.io/) | Javascript playground.  |
+| [All The Tags](https://allthetags.com/) | All HTML tags briefly explained. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
