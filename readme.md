@@ -143,6 +143,7 @@
 | [Material Design Palette Generator](http://mcg.mbitson.com) | Generate theme and color palette Material Design-like |
 | [Colorate](https://colorate.azurewebsites.net/) | Color scheme tool for designers and developers. This will help you draw inspiration and serve as a resource for your color work. |
 | [0to255](https://www.0to255.com/) | A color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more. |
+| [Color Blender](https://meyerweb.com/eric/tools/color-blend) | A tool that shows the midpoint colors between two colors
 | [Gradient Buttons](https://gradientbuttons.colorion.co/) | Ready to use copy/paste gradient buttons |
 | [Khroma](http://khroma.co/) | Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save. |
 | [whocanuse](https://whocanuse.com) | A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
@@ -298,6 +299,9 @@
 | [Reshot](https://www.reshot.com/)| Uniquely free photos. Handpicked, non-stocky images.
 | [Free Images](https://www.freeimages.com/)| Find and download free stock photos - all free for personal and commercial use|
 | [Lorem Picsum](https://picsum.photos/)| An easy to use API to get beautiful placeholder images. Size and other parameters can be specified. |
+| [scienceimage](https://www.scienceimage.csiro.au) | An image library specializing in science and nature images |
+| [Integration & Application Network Image Library](https://ian.umces.edu/imagelibrary) | Free images to provide scientists, resource managers, government agencies, community groups and graphics professionals with a resource for enhancing science communication. |
+| [Saxifraga](http://www.freenatureimages.eu) | Free nature images |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -364,6 +368,8 @@
 | [Black Illustrations](https://www.blackillustrations.com/) | Beautiful illustrations of black people (free and premium) |
 | [Delesign](https://delesign.com/free-designs/graphics) | A collection of free illustrations and more |
 | [Custom Shape Dividers](https://www.shapedivider.app/) | Free tool to make it easier for designers and developers to export a beautiful SVG shape divider |
+| [Servier Medical Art](https://smart.servier.com) | 3000 free medical images to illustrate your publications and Powerpoint presentations |
+| [Clker](http://www.clker.com) | Free clip art you can use for anything you like |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -834,6 +840,7 @@
 | [Calltoidea](https://www.calltoidea.com/) | Collection of different web Components for inspiration. |
 | [MediaQueri.es](https://mediaqueri.es/) | A collection of inspirational websites using media queries and responsive web design |
 | [Mulzli Search](https://search.muz.li) | Search engine for design inspiration |
+| [DeviantArt](https://www.deviantart.com/) | Access to 370 million pieces of art for inspiration. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
