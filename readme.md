@@ -525,6 +525,7 @@
 | [tsParticles](https://particles.matteobruni.it/)| A lightweight library for creating particles, an improved version of the abandoned and obsolete particles.js |
 | [Particles.js](https://vincentgarreau.com/particles.js/)| A lightweight JavaScript library for creating particles |
 | [mo.js](https://mojs.github.io/)| The motion graphics toolbelt for the web |
+| [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)| A small JS library to overlay images on top of the current page. |
 
 
 <div align="right">
@@ -896,6 +897,7 @@
 | [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) | Open source web design debug tool built with JavaScript |
 | [Keyframes](https://chrome.google.com/webstore/detail/keyframes/dalaiblmpeklkjnpeocmaojcfldmbfck?hl=en) | In-browser CSS Animation creator. |
 | [Kontrast - WCAG Contrast Checker](https://chrome.google.com/webstore/detail/kontrast-wcag-contrast-ch/haphaaenepedkjngghandlmhfillnhjk?hl=en) |  Quickly check and adjust contrast in realtime in your browser to meet WCAG 2.1 requirements |
+| [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) |  Adds a toolbar button with various web developer tools. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
