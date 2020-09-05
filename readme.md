@@ -250,13 +250,14 @@
 | [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html) | Material design icon font |
 | [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | The icon font from Visual Studio Code |
 | [Devicon](https://konpa.github.io/devicon/) | Devicon is a set of icons representing programming languages, designing & development tools |
-| [PaymentFont](https://paymentfont.com/) | A sleek webfont for payment operators and methods. Featuring 116 icons |
+| [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) | A sleek webfont for payment operators and methods. Featuring 116 icons |
 | [Weather Icons](https://erikflowers.github.io/weather-icons/) | Weather Icons is the only icon font with 222 weather themed icons |
 | [Stroke 7](https://themes-pixeden.com/font-demos/7-stroke/index.html) | 202 thin stroke icons inspired by iOS 7 |
 | [Jam Icons](https://jam-icons.com/) | 890+ handcrafted icons to make your web app awesome |
 | [Fontastic.me](http://fontastic.me/) | Create your custom icon fonts in seconds. Over 9,000 icons available to pick from or upload your custom svg |
 | [Fontello](http://fontello.com/)| 200+ web icons where you can customize the names or codes of icons. |
 | [Linea](https://linea.io/)| Linea: Featuring 750+ Free Icons |
+| [Unicons](https://iconscout.com/unicons)| A set of 1100+ Free line style icons available as SVG icons, Web fonts and as components for JS frameworks like React, Vue and React Native. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -847,6 +848,8 @@
 | [MediaQueri.es](https://mediaqueri.es/) | A collection of inspirational websites using media queries and responsive web design |
 | [Mulzli Search](https://search.muz.li) | Search engine for design inspiration |
 | [DeviantArt](https://www.deviantart.com/) | Access to 370 million pieces of art for inspiration. |
+| [Design your way](https://www.designyourway.net/blog/web-and-mobile-design/) | Collection of different Web and Mobile Designs |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
