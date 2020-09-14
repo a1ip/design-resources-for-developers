@@ -785,6 +785,7 @@
 | [Framer](https://www.framer.com/) | Is prototyping tool for teams |
 | [Draw.io](https://www.draw.io/) | Free online diagram editor tool |
 | [UXWing SVG Editor](https://uxwing.com/svg-icon-editor)| Creating and Edit SVG Online |
+| [CSS Arrow](http://www.cssarrowplease.com/)| Create and export CSS code for a custom box with an arrow extending out from the side. Great for tooltips, flyouts and the like. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -904,6 +905,8 @@
 | [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) | Adds a semi-transparent image overlay over the top of the developed HTML to easily perform pixel perfect comparison between them, useful for replicating UI designs. |
 | [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) | Inserts the Pesticide CSS into the current page, outlining each HTML element to better see placement on the page, helpful for building layouts. |
 | [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh) | A must-have tool for designers and frontend developers to grab colors for any website. |
+| [Mobile/Responsive Web Design Tester](https://chrome.google.com/webstore/detail/mobileresponsive-web-desi/elmekokodcohlommfikpmojheggnbelo) | Test responsive web designs or mobile pages that detect specific user agents. Test multiple devices at the same time! |
+| [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -940,6 +943,7 @@
 | [PlayCode](https://playcode.io/) | Javascript playground.  |
 | [All The Tags](https://allthetags.com/) | All HTML tags briefly explained. |
 | [Vue Telemetry](https://vuetelemetry.com/) | Reveal the Vue plugins and technology stack powering any website or explore a database of 5500+ websites. |
+| [Grid.js](https://gridjs.io/) | Grid.js is a Free and open-source HTML table plugin written in TypeScript. It works with most JavaScript frameworks, including React, Angular, Vue and VanillaJs. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
