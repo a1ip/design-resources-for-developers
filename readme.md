@@ -310,6 +310,7 @@
 | [scienceimage](https://www.scienceimage.csiro.au) | An image library specializing in science and nature images |
 | [Integration & Application Network Image Library](https://ian.umces.edu/imagelibrary) | Free images to provide scientists, resource managers, government agencies, community groups and graphics professionals with a resource for enhancing science communication. |
 | [Saxifraga](http://www.freenatureimages.eu) | Free nature images |
+| [Creative Commons](https://search.creativecommons.org) | Search for free images to reuse.
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -328,6 +329,7 @@
 | [Life Of Vids](https://www.lifeofvids.com/)| Free video clips and loops |
 | [Videvo](https://www.videvo.net/stock-video-footage/)| Free and premium stock videos |
 | [Loopvidz](http://stock.loopvidz.com/)| Free To Use Cinema graphs Created With VIMAGE App |
+| [SplitShire](https://www.splitshire.com/)| Beautiful & exclusive free stock videos & photos |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -434,6 +436,9 @@
 | [Shade](https://grayic.com/shade/) | Get High Converting Landing Pages For Free! |
 | [UIdeck](https://uideck.com/) | Free Landing Page Templates and Bootstrap Themes |
 | [Splawr](https://splawr.com/) | Free web templates to kickstart your idea! |
+| [W3css_templates](https://www.w3schools.com/w3css/w3css_templates.asp) | Some responsive W3.CSS website templates for you to use. |
+| [All-Free-Download](https://all-free-download.com/free-website-templates/free-html-css-templates.html) | Download free-website-templates |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -510,6 +515,7 @@
 | [MOTION UI](https://zurb.com/playground/motion-ui)| A Sass library for creating flexible CSS transitions and animations |
 | [Keyframes.app](https://keyframes.app/)| A graphical user interface for generating custom CSS keyframe animations |
 | [thoughtbot](https://thoughtbot.com/blog/transitions-and-transforms)| CSS Transitions and Transformations for Beginners |
+| [SVG Artista](https://svgartista.net/)| A useful tool to animate stroke and fill properties in SVG images with plain CSS code |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -913,6 +919,7 @@
 | [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en) | Discover what runs a website. Frameworks, Analytics Tools, Wordpress Plugins, Fonts - you name it.|
 | [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | Adds a toolbar button with various web developer tools.|
 | [Awesome Screenshot & Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) | Full page screen capture and screen recorder - 2 in 1. Share screencast video instantly|
+| [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied) | Get programming news with zero effort. Simply open a new tab, and you’re all set. A must-have tool for busy developers!|
 | [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) | Validate and view JSON documents. |
 | [JSON Lite](https://github.com/lauriro/json-lite) | Browser extension for viewing JSON files. |
 | [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) | Resize the browser window to emulate various screen resolutions. |
@@ -933,6 +940,7 @@
 | [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha) | Change the appearance of the web instantly. |
 | [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) | A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more. |
 | [React Developer Tool](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | React debugging tools to the Chrome Developer Tools. It allows you to inspect the React component hierarchies in the Chrome Developer Tools. |
+| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) | Wappalyzer is a technology profiler that shows you what websites are built with. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
