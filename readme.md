@@ -676,6 +676,8 @@
 | [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) | A React implementation of Spectrum, Adobe’s design system. |
 | [React tsParticles](https://particles.matteobruni.it/)| A lightweight React component for creating particles |
 | [particles-bg](https://github.com/lindelof/particles-bg)| A React particles animation background component |
+| [Treact](https://treact.owaiskhan.me)| gallery of free and modern React templates and UI components developed using TailwindCSS as the front-end framework |
+| [Open](https://github.com/cruip/open-react-template/)| Open is a free React template created for developers who want to create a quick and professional landing page for their open source projects, online services, digital products, and more. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -731,6 +733,10 @@
 | [Pagination for datatables](https://www.npmjs.com/package/ngx-pagination) | npm library for pagination |
 | [Multi select dropdown](https://www.npmjs.com/package/ng-multiselect-dropdown) | for multi select drop-dowm in forms |
 | [NG Particles](https://particles.matteobruni.it/)| A lightweight Angular component for creating particles |
+| [Covalent UI](https://teradata.github.io/covalent/v3/#/)| Angular UI Platform focused on solving common enterprise needs |
+| [NGX Foundation](https://ngxfoundation.com/)| UI framework based on the veteran CSS framework foundation |
+| [Clarity](https://clarity.design/)| CSS based Angular UI framework developed by VMware group |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
