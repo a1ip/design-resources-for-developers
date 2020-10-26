@@ -426,6 +426,7 @@
 | [Threed.io](https://threed.io)| Generate 3D mockups right in your browser. |
 | [Mockuphone](https://mockuphone.com/)| 100% free mockups for all devices including IOS, Android, Windows Phone, Laptop & Desktop and TV |
 | [Device Shots](https://deviceshots.com/)| Create high-resolution device mockups for social media, for free |
+| [Clean Mock](https://cleanmock.com/)| Create stunning mockups using latest device frames like iPhone X & custom backgrounds that make your mobile or website design standout, right from your browser quickly & for free. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -801,6 +802,7 @@
 | [Spectrum](https://spectrum.adobe.com/) | Adobe’s design system that provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive. |
 | [Asphalt](https://asphalt.gojek.io/) | Gojek’s design language system. A collection of guidelines and components to create amazing user experiences. |
 | [Laws of UX](https://lawsofux.com/) | A collection of the key maxims that designers must consider when building user interfaces. |
+| [Checklist Design](https://www.checklist.design/) | Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
